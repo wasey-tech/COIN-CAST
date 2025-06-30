@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environments
+env/
+venv/
+ENV/
+*.env
+*.venv
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# PyCharm / VSCode IDE folders
+.idea/
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Logs and cache
+*.log
+*.cache
+
+# Matplotlib plots cache
+*.png
+*.jpg
+
+# Environment/conda config files (optional)
+*.yml
